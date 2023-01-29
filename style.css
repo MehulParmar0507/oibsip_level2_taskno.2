@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(131, 136, 135);
+    margin-top: 0px;
+}
+.name{
+    color: rgb(154 176 255);
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+}
+img{
+
+    position:relative;
+    left:40%;
+}
+.information{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(219, 41, 50);
+}
+
+.Profession{
+    text-align: center;
+     color:aqua;
+}
+
+.BORN{
+    text-align: center;
+    color:#ffff8a;
+}
+.DIED{
+    text-align: center;
+    color: #ffff8a;
+}
+
+.DEATH{
+    text-align: center;
+    color: #ffff8a;
+}
+
+.ACTIVE{
+    text-align: center;
+    color: #ffff8a;
+}
+
+.page{
+    text-align: center;
+    color: rgb(98, 55, 16);
+    background-color: #ffff8a;
+
+}
+.container
+{
+    background-color: brown;
+    margin-top: 0px;
+}
+p{
+    color:white;
+    font-size:21px;
+    font-weight: bold;
+    line-height: 1.4;
+}
+li{
+    color: beige;
+    font-size: 20px;
+    line-height: 1.7;
+    font-weight: 600;
+}
